@@ -11,7 +11,7 @@ a fissure.
 display_utils.py does coloring and formating.
 
 fissure_fetcher.py has the logic for grabbing fissures through warframes API
-API address in config.py.
+, address in config.py.
 
 main.py logic for refreshing the display. This is done via cursor not
 full-screen refresh to avoid flickering.
